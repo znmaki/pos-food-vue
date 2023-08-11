@@ -1,0 +1,44 @@
+{
+    "menu": {
+        "burger": [
+            {
+                "id": "01",
+                "image": "https://res.cloudinary.com/makiro322/image/upload/v1661442974/Screenshot_2022_08_23_at_12_15_38_LAS_10_MEJORES_HAMBURGUESAS_EN_LIMA_31eec92428.png",
+                "name": "Black Burger",
+                "description": "Pan al vapor con tinta de calamar, hamburguesa de entraña Angus, queso cheddar, kimchi y encurtido de kyuri.",
+                "items": 11,
+                "price": 5.99
+            }
+        ],
+        "noodles": [
+            {
+                "id": "02",
+                "image": "https://example.com/image/noodles.jpg",
+                "name": "Spicy Noodles",
+                "description": "Fideos picantes con verduras y pollo.",
+                "items": 9,
+                "price": 6.49
+            }
+        ],
+        "drinks": [
+            {
+                "id": "03",
+                "image": "https://example.com/image/drinks.jpg",
+                "name": "Refreshing Drink",
+                "description": "Bebida refrescante de frutas tropicales.",
+                "items": 16,
+                "price": 2.99
+            }
+        ],
+        "desserts": [
+            {
+                "id": "04",
+                "image": "https://example.com/image/desserts.jpg",
+                "name": "Chocolate Delight",
+                "description": "Postre de chocolate con helado de vainilla.",
+                "items": 7,
+                "price": 4.99
+            }
+        ]
+    }
+}

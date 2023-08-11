@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-light-black text-white;
+  }
+
+  .router-link-exact-active {
+    @apply pt-4 rounded-lg bg-primary !text-white
+  }
+}
